@@ -3,10 +3,10 @@ Slango is for English Slangs with its Meaning , Examples & Pronunciation. Build 
 
 
  <p float="left">
- <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/1.png" width="215" />
- <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/2.png" width="215" /> 
- <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/3.png" width="215" />
- <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/4.png" width="215" />
+ <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/1.png" width="185" />
+ <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/2.png" width="185" /> 
+ <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/3.png" width="185" />
+ <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/4.png" width="185" />
  </p>
 
 App Features :

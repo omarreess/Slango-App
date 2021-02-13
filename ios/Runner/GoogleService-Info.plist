@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>928449414040-d9o8ut0m9ag96ad05oh2brrneu5ag94k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.928449414040-d9o8ut0m9ag96ad05oh2brrneu5ag94k</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>928449414040-96o3lg75hofg9e7h2nk1h3a8kv5git75.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCg5pMg7BsHK6aLMiCa9aYqgdDnRVzbEFw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>928449414040</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.omaressam.slango</string>
+	<key>PROJECT_ID</key>
+	<string>slango-6862e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>slango-6862e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:928449414040:ios:5090e7f67c536e5a9721ed</string>
+</dict>
+</plist>

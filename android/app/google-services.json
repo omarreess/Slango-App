@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "928449414040",
+    "project_id": "slango-6862e",
+    "storage_bucket": "slango-6862e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928449414040:android:56f6e11e0dd9cf659721ed",
+        "android_client_info": {
+          "package_name": "com.omaressam.slango"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928449414040-96o3lg75hofg9e7h2nk1h3a8kv5git75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omaressam.slango",
+            "certificate_hash": "d891e7d4e9baaa404167d015bfdd2a110317c4a5"
+          }
+        },
+        {
+          "client_id": "928449414040-o2n9qbqpueuo2dv5msa86r0je8p804ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBuZI9PL1ztJuynCNLeQ1BOSGN83g5T8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928449414040-o2n9qbqpueuo2dv5msa86r0je8p804ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

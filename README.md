@@ -3,10 +3,10 @@ Slango is for English Slangs with its Meaning , Examples & Pronunciation
 
 
  <p float="left">
- <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/1.png" width="250" />
- <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/2.png" width="250" /> 
- <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/3.png" width="250" />
- <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/4.png" width="250" />
+ <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/1.png" width="230" />
+ <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/2.png" width="230" /> 
+ <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/3.png" width="230" />
+ <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/4.png" width="230" />
  </p>
 
 App Features :
@@ -49,24 +49,6 @@ Code Architecture :
 ![alt text](https://github.com/omarreess/Slango-App/blob/master/imgs/arch.png)
 
 
-Code Features :
-
- - Navigation graph for fragments Screens
- - Applied The single-responsibility principle  of OOD
- - Tried to make it  clean and readable code 
- - The Code orginized by classifying it  into  3 packages :  Network layer , UI , Logic and  Data 
- - Network layer contains Authencticon and Request of Bringing data from Firebase Real-time Database
- - Logic package contaings Adapters for data  , Data Package contains models and some static data
- - Sort Button have three sorting Simple algorthims 
- - App intro slider for Introduce app features 
- - Drawables used with difreent densities to fit with more screens
- - 80% of Drawables are SVG to minimize app size
- - User Signin and Signup using Firebase Authentication 
- - Binding views using butterknife
- - Most of Layouts made with constraint layout and guidelines
- - Icons  from matriel.io
- 
- 
 
 Used libraries :
 
@@ -74,7 +56,7 @@ Used libraries :
  -  Sqflite
  -  Google Fonts & Nav Bar
  -  Http
- -  Path Provider 
+ -  Provider 
  -  Data Connection Checker
  -  Path
  -  Cached Network Image

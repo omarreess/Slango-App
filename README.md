@@ -1,5 +1,5 @@
 # Slango App
-Slango is for English Slangs with its Meaning , Examples & Pronunciation
+Slango is for English Slangs with its Meaning , Examples & Pronunciation. Build with Flutter SDK
 
 
  <p float="left">

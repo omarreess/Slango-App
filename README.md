@@ -13,10 +13,10 @@ App Features :
 
 - Splash & Intro for the App
  <p float="left">
- <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/intro0.jpg" width="230" />
- <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/intro1.jpg" width="230" /> 
- <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/intro2.jpg" width="230" />
- <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/intro3.jpg" width="230" />
+ <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/intro0.jpg" width="185" />
+ <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/intro1.jpg" width="185" /> 
+ <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/intro2.jpg" width="185" />
+ <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/intro3.jpg" width="185" />
  </p>
  
  

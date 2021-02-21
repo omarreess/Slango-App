@@ -20,7 +20,7 @@ App Features :
  </p>
  
  
- - Authentication Login , Signup , Reset Password using Firebase Auth Service
+ - Authentication Login , Signup , Reset Password using Firebase Auth Service & Google Auth 
  - User Data saved Globaly by Firebase Cloud Database 
  - Layout Made Adaptive with Mediaquery Sizes
  - Firebase messaging for Pushig notification 

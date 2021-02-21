@@ -1,6 +1,7 @@
 # Slango App
 Slango is for English Slangs with its Meaning , Examples & Pronunciation. Build with Flutter SDK
 
+App Published on Google Play : https://play.google.com/store/apps/details?id=com.omaressam.slango
 
  <p float="left">
  <img src="https://github.com/omarreess/Slango-App/blob/master/imgs/1.png" width="185" />

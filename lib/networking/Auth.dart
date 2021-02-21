@@ -5,6 +5,7 @@
 import 'package:firebase_auth/firebase_auth.dart' ;
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:google_sign_in/google_sign_in.dart';
 import 'package:path/path.dart';
 import 'package:toast/toast.dart';
 
@@ -107,6 +108,34 @@ class Auth
   }
 
 
+   Future<void> signInWithGoogle() async {
+     // Trigger the authentication flow
+     final GoogleSignInAccount googleUser = await GoogleSignIn().signIn();
+
+     // Obtain the auth details from the request
+     final GoogleSignInAuthentication googleAuth = await googleUser.authentication;
+
+     // Create a new credential
+     final GoogleAuthCredential credential = GoogleAuthProvider.credential(
+       accessToken: googleAuth.accessToken,
+       idToken: googleAuth.idToken,
+     );
+
+     // Once signed in, return the UserCredential
+     await FirebaseAuth.instance.signInWithCredential(credential).then((cred) {
+        CloudDb().checkUserExist(cred.user.uid.toString() ,cred.user.displayName).then(
+               (_) {
+             // print('$exist bra  ya m3lm');
+             Navigator.pushReplacementNamed(ctx, 'home');
+
+
+
+           });
+     });
+
+
+
+   }
 }
 
 

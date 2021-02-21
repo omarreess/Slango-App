@@ -96,14 +96,14 @@ class LoginScreen extends StatelessWidget {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      SocalIcon(
-                        iconSrc: "assets/facebook.svg",
-                        press: () {},
-                      ),
+                      // SocalIcon(
+                      //   iconSrc: "assets/facebook.svg",
+                      //   press: () {},
+                      // ),
 
                       SocalIcon(
                         iconSrc: "assets/google.svg",
-                        press: () {},
+                        press: auth.signInWithGoogle,
                       ),
                     ],
                   )

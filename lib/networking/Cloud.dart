@@ -62,6 +62,19 @@ class CloudDb {
 
     });
   }
+  Future<void> checkUserExist(String uid , String name , ) async    {
+    CollectionReference users = await FirebaseFirestore.instance.collection('Users');
+    await  users.doc(uid).get().then((response) {
+      if(!response.exists)  {
+
+        //not exist
+        postUserName(User(uid:uid ,score: 0 , name: name ));
+      }
+
+
+
+    } );
+  }
   void postUserScore(User user) async {
     FirebaseFirestore firestore = await FirebaseFirestore.instance;
     firestore.collection('Users').doc(user.uid).update({
